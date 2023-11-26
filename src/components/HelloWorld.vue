@@ -24,8 +24,7 @@
               start
             />
 
-            Components
-          </v-btn>
+amke it work          </v-btn>
         </v-col>
 
         <v-col cols="auto">
